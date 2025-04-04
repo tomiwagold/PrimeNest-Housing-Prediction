@@ -40,7 +40,7 @@ The project demonstrates the power of linear regression in predictive modeling f
 ## Contact
 For any queries or collaborations, feel free to connect:
 - *GitHub*: (https://github.com/tomiwagold)
-- *Interact with the Streamlit Web App Here*: [PrimeNest Properties Price Prediction Project](https://primenest-housing-prediction-wzjfmgctqkv3vpuebamiru.streamlit.app/))
+- *Interact with the Streamlit Web App Here*: [PrimeNest Properties Price Prediction Project](https://primenest-housing-prediction-wzjfmgctqkv3vpuebamiru.streamlit.app/)
 
 
 
